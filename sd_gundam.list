@@ -1,5 +1,5 @@
-api.resources.eternal.channel.or.jp
-api.gl.eternal.channel.or.jp
-firebaselogging-pa.googleapis.com
-cdp.cloud.unity3d.com
-config.uca.cloud.unity3d.com
+DOMAIN,api.resources.eternal.channel.or.jp
+DOMAIN,api.gl.eternal.channel.or.jp
+DOMAIN-SUFFIX,eternal.channel.or.jp
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,config.uca.cloud.unity3d.com
